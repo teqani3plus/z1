@@ -1,14 +1,14 @@
-{"version_code":451244,"content":"
-<p>تحديث 6.46</p>
+{"version_code":452646,"content":"
+<p>تحديث 6.50</p>
 <li>حدث لكي لا تتوقف النسخه عندك</li>
 </li>تم اصلاح مشاكل كثيره</li>
 <li>نسخه ضد الحظر</li>
 <li>تم اصلاح عندما ينتهي الاصدار يوجهك الى موقع الاساسي</li>
-<li>تم تمديد النسخه شهرين</li>
+<li>تم تمديد النسخة الى 3 اشهر</li>
 <li> تعديل علاء اسماعيل<li>
 
-<p>New Base Updated 6.46</p>
+<p>New Base Updated 6.50</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
 
-","url":"https://www.free-netsyr.com/2019/07/blog-post_25.html"
+","https://www.free-netsyra.com/2019/07/blog-post_25.html"
 }
