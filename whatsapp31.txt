@@ -1,4 +1,4 @@
-{"version_code":452646,"content":"
+{"version_code":4527676,"content":"
 <p>تحديث 6.50</p>
 <li>حدث لكي لا تتوقف النسخه عندك</li>
 </li>تم اصلاح مشاكل كثيره</li>
@@ -10,5 +10,5 @@
 <p>New Base Updated 6.50</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
 
-","https://www.free-netsyra.com/2019/07/blog-post_25.html"
+","https://www.kasmo-android.com/2019/12/whatsapp-plus-kasmoo.html"
 }
